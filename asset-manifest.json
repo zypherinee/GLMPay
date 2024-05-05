@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GLMPay/static/css/main.31a93179.css",
+    "main.js": "/GLMPay/static/js/main.adc4d38e.js",
+    "static/media/InterBold.ttf": "/GLMPay/static/media/InterBold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/InterRegular.ttf": "/GLMPay/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/RobotoRegular.ttf": "/GLMPay/static/media/RobotoRegular.fc2b5060f7accec5cf74.ttf",
+    "static/media/RobotoLight.ttf": "/GLMPay/static/media/RobotoLight.333da16a3f3cc391d087.ttf",
+    "static/media/RalewayRomanBold.ttf": "/GLMPay/static/media/RalewayRomanBold.757abe402eb07a0ab739.ttf",
+    "static/media/OpenSansRomanBold.ttf": "/GLMPay/static/media/OpenSansRomanBold.c790f99966352c531503.ttf",
+    "static/media/img_bg.svg": "/GLMPay/static/media/img_bg.19ff2d61cf0a68ff067f.svg",
+    "index.html": "/GLMPay/index.html",
+    "main.31a93179.css.map": "/GLMPay/static/css/main.31a93179.css.map",
+    "main.adc4d38e.js.map": "/GLMPay/static/js/main.adc4d38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a93179.css",
+    "static/js/main.adc4d38e.js"
+  ]
+}
